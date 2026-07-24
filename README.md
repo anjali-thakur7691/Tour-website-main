@@ -1,52 +1,83 @@
+<div align="center">
+
 # 🌍 Tour Website
 
+### ✈️ Explore the World with Us
+
+A modern, responsive and attractive travel website built using **HTML, CSS & JavaScript**.
+
+<img src="img/hero-img.png" width="100%" alt="Tour Website Banner">
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+# 📸 Website Preview
+
 <p align="center">
-  <img src="img/hero-img.png" alt="Tour Website Banner" width="100%">
+
+<img src="img/screenshot1.png" width="900">
+
 </p>
 
-## 📸 Project Preview
+---
 
-<p align="center">
-  <img src="img/screenshot.png" alt="Home Page" width="900">
-</p>
+# 📖 About Project
+
+The **Tour Website** is a responsive and user-friendly travel website developed using **HTML5, CSS3, and JavaScript**.
+
+It provides users with an engaging experience to discover amazing destinations, explore travel packages, and contact the travel agency.
 
 ---
 
-## 📌 Project Overview
+# ✨ Features
 
-A modern and responsive **Tour & Travel Website** built using **HTML5, CSS3, and JavaScript**. It provides an engaging interface for users to explore destinations, discover travel packages, and contact the travel agency.
+✅ Beautiful Landing Page
 
----
+✅ Hero Banner
 
-## ✨ Features
+✅ Popular Destinations
 
-- 🏠 Responsive Home Page
-- 🌍 Tourist Destinations
-- 📍 Places Section
-- 📞 Contact Page
-- 📱 Mobile Friendly
-- 🎨 Modern UI Design
-- ⚡ Smooth Navigation
+✅ Places Section
 
----
+✅ Contact Page
 
-## 🛠️ Tech Stack
+✅ Responsive Design
 
-- HTML5
-- CSS3
-- JavaScript
-- VS Code
+✅ Attractive UI
+
+✅ Mobile Friendly
+
+✅ Smooth Scrolling
+
+✅ Easy Navigation
 
 ---
 
-## 📂 Project Structure
+# 🛠 Technologies Used
+
+| Technology | Description |
+|------------|-------------|
+| HTML5 | Website Structure |
+| CSS3 | Styling |
+| JavaScript | Interactive Features |
+| VS Code | Code Editor |
+
+---
+
+# 📂 Project Structure
 
 ```text
 Tour-website-main/
 │
 ├── img/
 │   ├── hero-img.png
-│   ├── screenshot.png
+│   ├── screenshot1.png
 │   ├── img-1.jpg
 │   ├── img-2.jpg
 │   ├── img-3.jpg
@@ -66,25 +97,80 @@ Tour-website-main/
 
 ---
 
-## 🚀 Run Locally
+# 🚀 Installation
+
+Clone the repository
 
 ```bash
 git clone https://github.com/your-username/Tour-website.git
+```
 
+Go to project folder
+
+```bash
 cd Tour-website-main
 ```
 
-Then open **index.html** with **Live Server**.
+Run using Live Server
+
+```
+Open index.html
+Right Click
+Open with Live Server
+```
 
 ---
 
-## 👩‍💻 Author
+# 📱 Responsive Design
 
-**Anjali Thakur**
+✔ Desktop
 
-- 🎓 MCA Student
-- 💻 Python & Web Developer
+✔ Laptop
+
+✔ Tablet
+
+✔ Mobile
 
 ---
 
-⭐ If you like this project, don't forget to **Star** the repository.
+# 🎯 Future Improvements
+
+- Online Booking System
+- User Login & Registration
+- Search Destination
+- Google Maps
+- Payment Gateway
+- Dark Mode
+- Reviews & Ratings
+
+---
+
+# 👩‍💻 Author
+
+## Anjali Thakur
+
+🎓 MCA Student
+
+💻 Python Developer
+
+🌐 Frontend Web Developer
+
+📍 Madhya Pradesh, India
+
+---
+
+# ⭐ Support
+
+If you found this project helpful, please consider giving it a ⭐ on GitHub.
+
+---
+
+# 📜 License
+
+This project is created for educational and learning purposes.
+
+<div align="center">
+
+### 🌍 Thank You For Visiting ❤️
+
+</div>
