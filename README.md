@@ -6,7 +6,7 @@
 
 A modern, responsive and attractive travel website built using **HTML, CSS & JavaScript**.
 
-<img src="img/hero-img.png" width="100%" alt="Tour Website Banner">
+<img src="img/screenshot1.png.jpg" width="100%" alt="Tour Website Banner">
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
