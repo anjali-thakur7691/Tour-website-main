@@ -21,7 +21,7 @@ A modern, responsive and attractive travel website built using **HTML, CSS & Jav
 
 <p align="center">
 
-<img src="img/screenshot1.png" width="900">
+<img src="img/img-4.jpg" width="900">
 
 </p>
 
